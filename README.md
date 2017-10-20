@@ -1,9 +1,9 @@
 # Udacity_Movie_Trailer_Website
 
-This project is part of Udacity FullStack Developer Nanodegree Program.
-This is the source code for the Movie Trailer Website
-The Movie Trailer Website display movies in a tiles with the corresponding poster
-The trailer of each movie plays when you click on the movie 
+- This project is part of Udacity FullStack Developer Nanodegree Program.
+- This is the source code for the Movie Trailer Website
+- The Movie Trailer Website display movies in a tiles with the corresponding poster
+- The trailer of each movie plays when you click on the movie 
 
 # Requirements
 
